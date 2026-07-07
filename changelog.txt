@@ -1,0 +1,128 @@
+== Change log ==
+
+= 4.0.0 - Jun 26 2026 =
+* Updated: WordPress 7.0 compatibility
+* Updated: Requires PHP 7.4
+* Updated: Tested up to WordPress 7.0
+
+= 3.0.8 - Apr 20 2025 =
+* Added: Tested with the latest WordPress.
+* Added: Static caching mechanism for theme options to improve performance.
+* Fixed: Resolved issue with translation function preload
+
+= 3.0.7 - Jan 21 2025 =
+* Added: Enhanced support for the latest WordPress version.
+* Updated: Improved CSS compatibility.
+
+= 3.0.6 - June 14 2024 =
+* Updated: WordPress latest compatibility
+* Updated: CSS combatibility
+
+= 3.0.5 - July 31 2023 =
+* Added: Recommended Classic Widgets plugin
+* Updated: WordPress latest compatibility
+
+= 3.0.4 - Feb 05 2022 =
+* Updated: WordPress latest compatibility
+
+= 3.0.3 - July 29 2021 =
+* Added: WordPress 5.8 compatibility
+* Fixed: Block-based Widgets Editor
+
+= 3.0.2 - June 25 2021 =
+* Fixed   :  Notice on Editor Gutenberg Editor
+* Updated   :  RTL CSS
+
+= 3.0.1 - Jan 09 2021 =
+* Added   : Links within content must be underlined
+* Updated   : Libraries
+
+= 3.0.0 - Nov 14 2019 =
+* Added   : Advanced Demo Import
+* Removed : Acme Demo Setup Plugin from TGM
+* Updated : Getting Started experience
+* Fixed   : Breadcrumbs error on google console, $item,$attributes,$meta updates inside function trail
+
+= 2.2.1 - Oct 03 2019=
+* Added : wp_body_open hook in header
+* Added : Gutentor Plugin in TGM
+* Added : wpml-config.xml
+* Fixed : Screen Reader Text
+
+= 2.2.0 - June 07 2019 =
+* Added : Both and Middle Column Sidebar layout
+* Added : Gutenberg Ready
+* Update : RTL CSS
+* Fixed : Space before DOCTYPE
+
+= 2.1.1 - Jan 11 2018 =
+* Added: Store Title
+* Updated : Breadcrumb and TGM-Plugin-Activation
+* Updated : Admin script enqueue
+* Updated : Font Awesome
+* Fixed: Minor fixes
+
+= 2.1.0 - July 14 2017 =
+* Added: Theme Menu Page
+* Added: Front Page, Archive and Single Page/Post Advanced Sidebar
+* Added: Home Main Content Area Description on Widget and Customizer
+* Added: Acme Demo Setup, information
+* Added: Feature Slider Responsive Image and Image only options
+* Updated : Customizer experience
+* Fixed: Jetpack infinite scroll
+* Fixed: Breadcrumb Trail notification issue
+
+= 2.0.2 =
+* Fixed : Acme Feature Widget default return value
+* Fixed : Scroolspy
+
+= 2.0.1 =
+* Added : Options to change Read More and Know More
+
+= 2.0.0 =
+* Added : Upgrade to Pro
+* Fixed: Minor Bug
+
+= 1.0.9 =
+* Fixed: Minor Bug
+
+= 1.0.8 =
+* Added : Sticky Menu Enable/Disable
+* Added : Active/Hover Menu Options
+
+= 1.0.7 =
+* Updated : Screenshot with WooCommerce icon and search icon
+* Fixed: Minor bug fixes
+
+= 1.0.6 =
+* Updated : Feature Section Widgets
+* Fixed: Minor bug fixes
+
+= 1.0.5 =
+* Added : New widgets
+* Remove : Custom CSS in favor of WP 4.7
+* Fixed: CSS tweaks
+* Fixed: Minor bug fixes
+
+= 1.0.4 =
+* Fixed: Minor Bug
+
+= 1.0.3 =
+* Fixed: Comment Listing
+* Fixed: Minor CSS
+
+= 1.0.2 =
+* Fixed: Comment Listing
+* Fixed: Minor CSS
+
+= 1.0.1 =
+* Fixed: Minor Bug
+
+= 1.0.0 =
+* Updated: Extend theme Customizer options
+* Added : Custom widgets
+* Added : WooCommerce Supports
+* Fixed: Fixed and Extended CSS
+
+= 0.0.1 =
+* Submitted to WordPress.org
